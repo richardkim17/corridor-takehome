@@ -1,0 +1,648 @@
+{
+  "meetings": [
+    {
+      "id": "mtg_apex2026051801",
+      "owner": {
+        "name": "Gray Collins",
+        "email": "gray.collins@corridoradvisors.com"
+      },
+      "created_at": "2026-05-18T20:00:00Z",
+      "updated_at": "2026-05-18T21:00:00Z",
+      "attendees": [
+        {
+          "name": "Sam Rivera",
+          "email": "sam.rivera@apex.example"
+        },
+        {
+          "name": "Gray Collins",
+          "email": "gray.collins@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Sam Rivera",
+            "email": "sam.rivera@apex.example",
+            "source": "microphone"
+          },
+          "text": "The client is Apex Manufacturing. Our benefits-eligible headcount is 28 employees.",
+          "start_time": "2026-05-18T20:14:00Z",
+          "end_time": "2026-05-18T20:14:09Z"
+        },
+        {
+          "speaker": {
+            "name": "Gray Collins",
+            "email": "gray.collins@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "And your benefit cycle starts December 1, 2026.",
+          "start_time": "2026-05-18T20:14:10Z",
+          "end_time": "2026-05-18T20:14:16Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_acme2026051801",
+      "owner": {
+        "name": "Avery Stone",
+        "email": "avery.stone@corridoradvisors.com"
+      },
+      "created_at": "2026-05-18T13:00:00Z",
+      "updated_at": "2026-05-18T13:55:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Avery Stone",
+          "email": "avery.stone@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "For Acme Benefits, we have 25 benefits-eligible employees today, and our benefit cycle starts July 1, 2026.",
+          "start_time": "2026-05-18T13:08:00Z",
+          "end_time": "2026-05-18T13:08:13Z"
+        },
+        {
+          "speaker": {
+            "name": "Avery Stone",
+            "email": "avery.stone@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "What plan design and employer budget should I use for the renewal search?",
+          "start_time": "2026-05-18T13:08:14Z",
+          "end_time": "2026-05-18T13:08:21Z"
+        },
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "We prefer a PPO because employees use providers across two states. Our employer budget is $700 per benefits-eligible employee per month.",
+          "start_time": "2026-05-18T13:08:22Z",
+          "end_time": "2026-05-18T13:08:36Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_apex2026051802",
+      "owner": {
+        "name": "Gray Collins",
+        "email": "gray.collins@corridoradvisors.com"
+      },
+      "created_at": "2026-05-18T10:00:00Z",
+      "updated_at": "2026-05-18T10:40:00Z",
+      "attendees": [
+        {
+          "name": "Sam Rivera",
+          "email": "sam.rivera@apex.example"
+        },
+        {
+          "name": "Gray Collins",
+          "email": "gray.collins@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Sam Rivera",
+            "email": "sam.rivera@apex.example",
+            "source": "microphone"
+          },
+          "text": "For Apex Manufacturing, we prefer an HSA-qualified HDHP. The employer budget is $575 per employee per month.",
+          "start_time": "2026-05-18T10:06:00Z",
+          "end_time": "2026-05-18T10:06:12Z"
+        },
+        {
+          "speaker": {
+            "name": "Gray Collins",
+            "email": "gray.collins@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Your incumbent broker found the Pioneer HSA HDHP at $526 per employee per month and the Pioneer Choice PPO at $655 per employee per month.",
+          "start_time": "2026-05-18T10:06:13Z",
+          "end_time": "2026-05-18T10:06:29Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_north2026051801",
+      "owner": {
+        "name": "Casey Rivera",
+        "email": "casey.rivera@corridoradvisors.com"
+      },
+      "created_at": "2026-05-18T17:30:00Z",
+      "updated_at": "2026-05-18T18:15:00Z",
+      "attendees": [
+        {
+          "name": "Nora Patel",
+          "email": "nora.patel@northstar.example"
+        },
+        {
+          "name": "Casey Rivera",
+          "email": "casey.rivera@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Northstar Logistics has 22 year-round, benefits-eligible employees. We expect the next benefit cycle to start October 1, 2026.",
+          "start_time": "2026-05-18T17:37:00Z",
+          "end_time": "2026-05-18T17:37:14Z"
+        },
+        {
+          "speaker": {
+            "name": "Casey Rivera",
+            "email": "casey.rivera@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Should I record an HMO as your preferred plan type and $550 per employee per month as the employer budget?",
+          "start_time": "2026-05-18T17:37:15Z",
+          "end_time": "2026-05-18T17:37:26Z"
+        },
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Yes, an HMO is preferred, and $550 per employee per month is our current budget.",
+          "start_time": "2026-05-18T17:37:27Z",
+          "end_time": "2026-05-18T17:37:36Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_north202605192",
+      "owner": {
+        "name": "Finley Brooks",
+        "email": "finley.brooks@corridoradvisors.com"
+      },
+      "created_at": "2026-05-19T15:00:00Z",
+      "updated_at": "2026-05-19T16:20:00Z",
+      "attendees": [
+        {
+          "name": "Nora Patel",
+          "email": "nora.patel@northstar.example"
+        },
+        {
+          "name": "Finley Brooks",
+          "email": "finley.brooks@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "The client is Northstar Logistics. We have 23 employees right now.",
+          "start_time": "2026-05-19T15:11:00Z",
+          "end_time": "2026-05-19T15:11:08Z"
+        },
+        {
+          "speaker": {
+            "name": "Finley Brooks",
+            "email": "finley.brooks@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "And your benefit cycle starts September 1, 2026, correct?",
+          "start_time": "2026-05-19T15:11:09Z",
+          "end_time": "2026-05-19T15:11:15Z"
+        },
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Yes, September 1, 2026 is correct.",
+          "start_time": "2026-05-19T15:11:16Z",
+          "end_time": "2026-05-19T15:11:20Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_acme2026051901",
+      "owner": {
+        "name": "Drew Kim",
+        "email": "drew.kim@corridoradvisors.com"
+      },
+      "created_at": "2026-05-19T11:00:00Z",
+      "updated_at": "2026-05-19T11:50:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Drew Kim",
+          "email": "drew.kim@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Drew Kim",
+            "email": "drew.kim@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker returned two options for Acme Benefits: the Harbor HMO 250 at $638 per employee per month and the Horizon Select PPO 500 at $718 per employee per month.",
+          "start_time": "2026-05-19T11:09:00Z",
+          "end_time": "2026-05-19T11:09:18Z"
+        },
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "The PPO is still our preferred plan. Our employer budget remains $700 per employee per month, so please ask whether that PPO price can come down.",
+          "start_time": "2026-05-19T11:09:19Z",
+          "end_time": "2026-05-19T11:09:34Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_north202605191",
+      "owner": {
+        "name": "Casey Rivera",
+        "email": "casey.rivera@corridoradvisors.com"
+      },
+      "created_at": "2026-05-19T14:00:00Z",
+      "updated_at": "2026-05-19T14:45:00Z",
+      "attendees": [
+        {
+          "name": "Nora Patel",
+          "email": "nora.patel@northstar.example"
+        },
+        {
+          "name": "Casey Rivera",
+          "email": "casey.rivera@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Payroll currently says Northstar Logistics has 29 employees because it includes seasonal dock workers.",
+          "start_time": "2026-05-19T14:06:00Z",
+          "end_time": "2026-05-19T14:06:10Z"
+        },
+        {
+          "speaker": {
+            "name": "Casey Rivera",
+            "email": "casey.rivera@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "You also mentioned October 1, 2026 as a tentative benefits cycle start.",
+          "start_time": "2026-05-19T14:06:11Z",
+          "end_time": "2026-05-19T14:06:19Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_acme2026052001",
+      "owner": {
+        "name": "Avery Stone",
+        "email": "avery.stone@corridoradvisors.com"
+      },
+      "created_at": "2026-05-20T19:00:00Z",
+      "updated_at": "2026-05-20T20:10:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Avery Stone",
+          "email": "avery.stone@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "For Acme Benefits, the 27 figure included contractors by mistake. The corrected employee count is 26.",
+          "start_time": "2026-05-20T19:08:00Z",
+          "end_time": "2026-05-20T19:08:14Z"
+        },
+        {
+          "speaker": {
+            "name": "Avery Stone",
+            "email": "avery.stone@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Got it. I will treat 26 as the corrected employee count for Acme Benefits.",
+          "start_time": "2026-05-20T19:08:15Z",
+          "end_time": "2026-05-20T19:08:23Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_apex2026052001",
+      "owner": {
+        "name": "Gray Collins",
+        "email": "gray.collins@corridoradvisors.com"
+      },
+      "created_at": "2026-05-20T09:00:00Z",
+      "updated_at": "2026-05-20T09:45:00Z",
+      "attendees": [
+        {
+          "name": "Sam Rivera",
+          "email": "sam.rivera@apex.example"
+        },
+        {
+          "name": "Gray Collins",
+          "email": "gray.collins@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Sam Rivera",
+            "email": "sam.rivera@apex.example",
+            "source": "microphone"
+          },
+          "text": "For Apex Manufacturing, keep the HSA-qualified HDHP as our preferred plan. Finance raised our employer budget to $600 per employee per month.",
+          "start_time": "2026-05-20T09:05:00Z",
+          "end_time": "2026-05-20T09:05:14Z"
+        },
+        {
+          "speaker": {
+            "name": "Gray Collins",
+            "email": "gray.collins@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker also revised the Pioneer HSA HDHP to $522 per employee per month and the Pioneer Choice PPO to $649 per employee per month.",
+          "start_time": "2026-05-20T09:05:15Z",
+          "end_time": "2026-05-20T09:05:30Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_acme2026052002",
+      "owner": {
+        "name": "Drew Kim",
+        "email": "drew.kim@corridoradvisors.com"
+      },
+      "created_at": "2026-05-20T18:30:00Z",
+      "updated_at": "2026-05-20T19:05:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Drew Kim",
+          "email": "drew.kim@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "For Acme Benefits, our employee count is changing. Please update the expected headcount to 27.",
+          "start_time": "2026-05-20T18:34:00Z",
+          "end_time": "2026-05-20T18:34:13Z"
+        },
+        {
+          "speaker": {
+            "name": "Drew Kim",
+            "email": "drew.kim@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Got it. I will treat 27 as the latest employee count until we receive a correction.",
+          "start_time": "2026-05-20T18:34:14Z",
+          "end_time": "2026-05-20T18:34:25Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_north2026052101",
+      "owner": {
+        "name": "Finley Brooks",
+        "email": "finley.brooks@corridoradvisors.com"
+      },
+      "created_at": "2026-05-21T16:00:00Z",
+      "updated_at": "2026-05-21T16:50:00Z",
+      "attendees": [
+        {
+          "name": "Nora Patel",
+          "email": "nora.patel@northstar.example"
+        },
+        {
+          "name": "Finley Brooks",
+          "email": "finley.brooks@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Northstar Logistics now has 24 year-round, benefits-eligible employees after this week's hire. September 1, 2026 remains the benefit cycle start.",
+          "start_time": "2026-05-21T16:07:00Z",
+          "end_time": "2026-05-21T16:07:15Z"
+        },
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "We still prefer an HMO, but finance can raise the employer budget to $575 per employee per month.",
+          "start_time": "2026-05-21T16:07:16Z",
+          "end_time": "2026-05-21T16:07:27Z"
+        },
+        {
+          "speaker": {
+            "name": "Finley Brooks",
+            "email": "finley.brooks@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker found the Cascade HMO at $548 per employee per month and the Summit PPO at $628 per employee per month.",
+          "start_time": "2026-05-21T16:07:28Z",
+          "end_time": "2026-05-21T16:07:43Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_acme2026052101",
+      "owner": {
+        "name": "Drew Kim",
+        "email": "drew.kim@corridoradvisors.com"
+      },
+      "created_at": "2026-05-21T10:00:00Z",
+      "updated_at": "2026-05-21T10:35:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Drew Kim",
+          "email": "drew.kim@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "Acme Benefits still prefers a PPO, and the board approved a higher employer budget of $725 per employee per month.",
+          "start_time": "2026-05-21T10:04:00Z",
+          "end_time": "2026-05-21T10:04:12Z"
+        },
+        {
+          "speaker": {
+            "name": "Drew Kim",
+            "email": "drew.kim@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker's revised prices are $704 per employee per month for the Horizon Select PPO 500 and $631 per employee per month for the Harbor HMO 250.",
+          "start_time": "2026-05-21T10:04:13Z",
+          "end_time": "2026-05-21T10:04:29Z"
+        },
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "The July 1, 2026 benefit cycle start is unchanged.",
+          "start_time": "2026-05-21T10:04:30Z",
+          "end_time": "2026-05-21T10:04:36Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_apex2026052201",
+      "owner": {
+        "name": "Gray Collins",
+        "email": "gray.collins@corridoradvisors.com"
+      },
+      "created_at": "2026-05-22T15:30:00Z",
+      "updated_at": "2026-05-22T16:10:00Z",
+      "attendees": [
+        {
+          "name": "Sam Rivera",
+          "email": "sam.rivera@apex.example"
+        },
+        {
+          "name": "Gray Collins",
+          "email": "gray.collins@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Sam Rivera",
+            "email": "sam.rivera@apex.example",
+            "source": "microphone"
+          },
+          "text": "Apex Manufacturing has grown to 31 benefits-eligible employees. We need to switch our preferred plan from the HDHP to a PPO because of the provider network.",
+          "start_time": "2026-05-22T15:36:00Z",
+          "end_time": "2026-05-22T15:36:16Z"
+        },
+        {
+          "speaker": {
+            "name": "Sam Rivera",
+            "email": "sam.rivera@apex.example",
+            "source": "microphone"
+          },
+          "text": "Finance approved an employer budget of $650 per employee per month. Our December 1, 2026 benefit cycle start is unchanged.",
+          "start_time": "2026-05-22T15:36:17Z",
+          "end_time": "2026-05-22T15:36:30Z"
+        },
+        {
+          "speaker": {
+            "name": "Gray Collins",
+            "email": "gray.collins@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker's latest pricing is $638 per employee per month for the Pioneer Choice PPO and $520 per employee per month for the Pioneer HSA HDHP.",
+          "start_time": "2026-05-22T15:36:31Z",
+          "end_time": "2026-05-22T15:36:47Z"
+        }
+      ]
+    },
+    {
+      "id": "mtg_north2026052201",
+      "owner": {
+        "name": "Casey Rivera",
+        "email": "casey.rivera@corridoradvisors.com"
+      },
+      "created_at": "2026-05-22T09:30:00Z",
+      "updated_at": "2026-05-22T10:20:00Z",
+      "attendees": [
+        {
+          "name": "Nora Patel",
+          "email": "nora.patel@northstar.example"
+        },
+        {
+          "name": "Casey Rivera",
+          "email": "casey.rivera@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "For Northstar Logistics, we need to change the preferred plan from an HMO to a PPO so our remote employees have in-network coverage.",
+          "start_time": "2026-05-22T09:38:00Z",
+          "end_time": "2026-05-22T09:38:15Z"
+        },
+        {
+          "speaker": {
+            "name": "Nora Patel",
+            "email": "nora.patel@northstar.example",
+            "source": "microphone"
+          },
+          "text": "Finance can increase the employer budget to $640 per employee per month.",
+          "start_time": "2026-05-22T09:38:16Z",
+          "end_time": "2026-05-22T09:38:24Z"
+        },
+        {
+          "speaker": {
+            "name": "Casey Rivera",
+            "email": "casey.rivera@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "The incumbent broker revised the Summit PPO to $619 per employee per month and the Cascade HMO to $545 per employee per month.",
+          "start_time": "2026-05-22T09:38:25Z",
+          "end_time": "2026-05-22T09:38:39Z"
+        }
+      ]
+    }
+  ]
+}

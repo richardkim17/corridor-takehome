@@ -1,0 +1,23 @@
+{
+  "name": "client-context-ingestion",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Client context ingestion pipeline + MCP server (see DESIGN.md)",
+  "scripts": {
+    "stub-api": "node api_stub_server.js",
+    "ingest": "tsx src/pipeline/ingest.mts",
+    "ingest:cron": "tsx src/pipeline/ingest.mts --trigger=cron",
+    "mcp": "tsx src/mcp/server.mts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

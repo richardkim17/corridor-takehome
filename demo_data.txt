@@ -1,0 +1,62 @@
+
+    {
+      "id": "mtg_acme2026052301",
+      "owner": {
+        "name": "Drew Kim",
+        "email": "drew.kim@corridoradvisors.com"
+      },
+      "created_at": "2026-05-23T14:00:00Z",
+      "updated_at": "2026-05-23T14:00:00Z",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@acme.example"
+        },
+        {
+          "name": "Drew Kim",
+          "email": "drew.kim@corridoradvisors.com"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "A few updates for Acme Benefits. We've grown to 29 benefits-eligible employees this month.",
+          "start_time": "2026-05-23T14:05:00Z",
+          "end_time": "2026-05-23T14:05:08Z"
+        },
+        {
+          "speaker": {
+            "name": "Drew Kim",
+            "email": "drew.kim@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Got it, 29 employees noted.",
+          "start_time": "2026-05-23T14:05:09Z",
+          "end_time": "2026-05-23T14:05:12Z"
+        },
+        {
+          "speaker": {
+            "name": "Priya Shah",
+            "email": "priya.shah@acme.example",
+            "source": "microphone"
+          },
+          "text": "Also, finance approved another increase - please update our employer budget to $760 per employee per month.",
+          "start_time": "2026-05-23T14:05:13Z",
+          "end_time": "2026-05-23T14:05:20Z"
+        },
+        {
+          "speaker": {
+            "name": "Drew Kim",
+            "email": "drew.kim@corridoradvisors.com",
+            "source": "speaker"
+          },
+          "text": "Understood, I'll update your budget to $760 per employee per month.",
+          "start_time": "2026-05-23T14:05:21Z",
+          "end_time": "2026-05-23T14:05:25Z"
+        }
+      ]
+    }
